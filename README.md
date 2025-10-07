@@ -47,10 +47,6 @@ _Stay tuned for amazing open-source and personal projects showcasing my backend 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupaperera112&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anupaperera112&theme=react-dark&bg_color=1A1B27&hide_border=true" alt="GitHub Activity Graph"/>
-</p> -->
-
 ---
 
 ### 🌐 Connect with Me
